@@ -1,2 +1,5 @@
-package net.aerh;public class BeakType {
+package net.aerh;
+
+public enum BeakType {
+    SHARP, FLAT, HOOKED;
 }
